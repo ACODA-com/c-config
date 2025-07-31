@@ -11,7 +11,6 @@ node|ComfyUI-Advanced-ControlNet|https://github.com/Kosinkadink/ComfyUI-Advanced
 node|ComfyUI_IPAdapter_plus|https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
 node|ComfyUI-GGUF|https://github.com/city96/ComfyUI-GGUF.git
 node|x-flux-comfyui|https://github.com/XLabs-AI/x-flux-comfyui.git
-node|comfyui_essentials|https://github.com/BlenderNeko/ComfyUI_Essentials.git
 node|comfyui-kjnodes|https://github.com/kijai/ComfyUI-KJNodes.git
 node|comfyui-impact-pack|https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
 node|ComfyUI-JoyCaption|https://github.com/1038lab/ComfyUI-JoyCaption.git
