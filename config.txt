@@ -15,6 +15,7 @@ node|comfyui_essentials|https://github.com/BlenderNeko/ComfyUI_Essentials.git
 node|comfyui-kjnodes|https://github.com/kijai/ComfyUI-KJNodes.git
 node|comfyui-impact-pack|https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
 node|ComfyUI-JoyCaption|https://github.com/1038lab/ComfyUI-JoyCaption.git
+none|ComfyUI-Custom-Script|https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
 
 # Flux Models
 model|flux1-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors
