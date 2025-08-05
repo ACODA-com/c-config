@@ -24,3 +24,5 @@ model|t5xxl_fp16.safetensors|https://huggingface.co/comfyanonymous/flux_text_enc
 model|ae.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors
 model|FLUX.1-Turbo-Alpha.safetensors|https://huggingface.co/Flux-AI/flux1-fill-dev/resolve/main/FLUX.1-Turbo-Alpha.safetensors
 model|flux1-fill-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev/resolve/main/flux1-fill-dev.safetensors
+model|iclight_sd15_fbc.safetensors|https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fbc.safetensors
+model|ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors|https://huggingface.co/zer0int/CLIP-GmP-ViT-L-14/resolve/main/ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors
