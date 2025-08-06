@@ -16,6 +16,7 @@ node|comfyui-impact-pack|https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
 node|ComfyUI-JoyCaption|https://github.com/1038lab/ComfyUI-JoyCaption.git
 node|ComfyUI-Custom-Scripts|https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
 node|ComfyUI_essentials|https://github.com/cubiq/ComfyUI_essentials.git
+node|comfyui-various|https://github.com/jamesWalker55/comfyui-various.git
 
 # Flux Models
 model|flux1-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors
@@ -26,3 +27,4 @@ model|FLUX.1-Turbo-Alpha.safetensors|https://huggingface.co/Flux-AI/flux1-fill-d
 model|flux1-fill-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev/resolve/main/flux1-fill-dev.safetensors
 model|unet/iclight_sd15_fbc.safetensors|https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fbc.safetensors
 model|clip/ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors|https://huggingface.co/zer0int/CLIP-GmP-ViT-L-14/resolve/main/ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors
+model|flux1-kontext-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/resolve/main/flux1-kontext-dev.safetensors
