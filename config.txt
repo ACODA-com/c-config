@@ -28,4 +28,4 @@ model|unet/iclight_sd15_fbc.safetensors|https://huggingface.co/lllyasviel/ic-lig
 model|clip/ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors|https://huggingface.co/zer0int/CLIP-GmP-ViT-L-14/resolve/main/ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors
 model|diffusion_models/flux1-kontext-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/resolve/main/flux1-kontext-dev.safetensors
 model|loras/comfyui_subject_lora16.safetensors|https://huggingface.co/ali-vilab/ACE_Plus/resolve/main/subject/comfyui_subject_lora16.safetensors
-model|loras/FLUX.1-Turbo-Alpha.safetensors|https://huggingface.co/Flux-AI/flux1-fill-dev/resolve/main/FLUX.1-Turbo-Alpha.safetensors
+model|loras/FLUX.1-Turbo-Alpha.safetensors|https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha/resolve/main/diffusion_pytorch_model.safetensors
