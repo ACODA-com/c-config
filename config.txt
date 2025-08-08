@@ -19,6 +19,7 @@ node|ComfyUI_essentials|https://github.com/cubiq/ComfyUI_essentials.git
 node|comfyui-various|https://github.com/jamesWalker55/comfyui-various.git
 node|ComfyUI-Detail-Daemon|https://github.com/Jonseed/ComfyUI-Detail-Daemon.git
 node|ComfyUI_UltimateSDUpscale|https://github.com/ssitu/ComfyUI_UltimateSDUpscale.git
+node|ComfyUI-Easy-Use|https://github.com/yolain/ComfyUI-Easy-Use.git
 
 # Flux Models
 model|flux1-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors
