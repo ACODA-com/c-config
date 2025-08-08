@@ -29,3 +29,4 @@ model|clip/ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors|https://huggingf
 model|diffusion_models/flux1-kontext-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/resolve/main/flux1-kontext-dev.safetensors
 model|loras/comfyui_subject_lora16.safetensors|https://huggingface.co/ali-vilab/ACE_Plus/resolve/main/subject/comfyui_subject_lora16.safetensors
 model|loras/FLUX.1-Turbo-Alpha.safetensors|https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha/resolve/main/diffusion_pytorch_model.safetensors
+model|upscale_models/4x_NMKD-Siax_200k.pth|https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth
