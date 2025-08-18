@@ -33,3 +33,5 @@ model|diffusion_models/flux1-kontext-dev.safetensors|https://huggingface.co/blac
 model|loras/comfyui_subject_lora16.safetensors|https://huggingface.co/ali-vilab/ACE_Plus/resolve/main/subject/comfyui_subject_lora16.safetensors
 model|loras/FLUX.1-Turbo-Alpha.safetensors|https://huggingface.co/camenduru/FLUX.1-dev/resolve/fc63f3204a12362f98c04bc4c981a06eb9123eee/FLUX.1-Turbo-Alpha.safetensors
 model|upscale_models/4x_NMKD-Siax_200k.pth|https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth
+model|style_models/flux1-redux-dev.safetensors|https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev/resolve/main/flux1-redux-dev.safetensors
+model|clip_vision/sigclip_vision_patch14_384.safetensors|https://huggingface.co/Comfy-Org/sigclip_vision_384/resolve/main/sigclip_vision_patch14_384.safetensors
